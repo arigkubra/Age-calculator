@@ -1,6 +1,3 @@
-<!-- language: vue -->
-
-
 <template>
   
       <!-- White Card -->
