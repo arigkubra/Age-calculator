@@ -1,6 +1,6 @@
 <template>
     <!-- Information -->
-    <div class="flex flex-col space-y-3 ml-14 text-6xl mt-14">
+    <div class="flex flex-col space-y-3 ml-4 sm:ml-5 md:ml-14 text-4xl sm:text-5xl md:text-6xl mt-10 sm:mt-14 md:mt-10">
 
         <!-- Item 1 -->
         <div class="">
